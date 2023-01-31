@@ -1,0 +1,72 @@
+[
+  {
+    "Name": "Nordic Chair",
+    "Price": "50$",
+    "pictureUrl": "",
+    "id": 1,
+    "color": "white"
+  },
+  {
+    "Name": "PEENO CB4839-FR 160",
+    "Price": "570$",
+    "pictureUrl": "",
+    "id": 2,
+    "color": "green"
+  },
+  {
+    "Name": "YO! CB4805-FR 200",
+    "Price": "457$",
+    "pictureUrl": "",
+    "id": 3,
+    "color": "white"
+  },
+  {
+    "Name": "YO! CB4805-FR 200",
+    "Price": "457$",
+    "pictureUrl": "",
+    "id": 4,
+    "color": "blue"
+  },
+  {
+    "Name": "IKADO CB4728-FD 140",
+    "Price": "255$",
+    "pictureUrl": "",
+    "id": 5,
+    "color": "brown"
+  },
+  {
+    "Name": "LORD CB4832-R 110",
+    "Price": "356",
+    "pictureUrl": "",
+    "id": 6,
+    "color": "yellow"
+  },
+  {
+    "Name": "PENTAGON CB4797-R 160 A",
+    "Price": "477$",
+    "pictureUrl": "",
+    "id": 7,
+    "color": "white"
+  },
+  {
+    "Name": "AURORA CB1963",
+    "Price": "743$",
+    "pictureUrl": "",
+    "id": 8,
+    "color": "pink"
+  },
+  {
+    "Name": "CLIP CB1974",
+    "Price": "50$",
+    "pictureUrl": "",
+    "id": 9,
+    "color": "grey"
+  },
+  {
+    "Name": "GO! CB1419",
+    "Price": "50$",
+    "pictureUrl": "",
+    "id": 10,
+    "color": "white"
+  }
+]
